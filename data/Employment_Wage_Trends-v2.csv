@@ -1,0 +1,433 @@
+"ID","State","Industry","Year","Employment Rate (%)","Average Wage ($)","Unemployment Rate (%)","Job Openings"
+1,"Pennsylvania","Technology",2018,98.3,98695,1.7,8746
+2,"Pennsylvania","Technology",2019,97.6,102647,2.4,9463
+3,"Pennsylvania","Technology",2020,70.7,106206,29.3,5867
+4,"Pennsylvania","Technology",2021,73.8,123017,26.2,8131
+5,"Pennsylvania","Technology",2022,87.3,156135,12.7,12235
+6,"Pennsylvania","Technology",2023,99.1,174500,0.9,12841
+7,"Pennsylvania","Healthcare",2018,99.9,82394,0.1,14252
+8,"Pennsylvania","Healthcare",2019,99.9,87072,0.1,14079
+9,"Pennsylvania","Healthcare",2020,77.1,84477,22.9,8771
+10,"Pennsylvania","Healthcare",2021,87.3,97449,12.7,12724
+11,"Pennsylvania","Healthcare",2022,99.9,120481,0.1,18804
+12,"Pennsylvania","Healthcare",2023,99.9,138958,0.1,20073
+13,"Pennsylvania","Retail",2018,91.8,41782,8.2,10416
+14,"Pennsylvania","Retail",2019,92.5,43534,7.5,10393
+15,"Pennsylvania","Retail",2020,60,44015,40,6137
+16,"Pennsylvania","Retail",2021,60,47222,40,9211
+17,"Pennsylvania","Retail",2022,73.6,54776,26.4,12950
+18,"Pennsylvania","Retail",2023,86.3,65028,13.7,13906
+19,"Pennsylvania","Manufacturing",2018,99.9,66180,0.1,6884
+20,"Pennsylvania","Manufacturing",2019,99.9,69251,0.1,7199
+21,"Pennsylvania","Manufacturing",2020,60,73184,40,4503
+22,"Pennsylvania","Manufacturing",2021,73.2,78579,26.8,5851
+23,"Pennsylvania","Manufacturing",2022,87.4,91561,12.6,8972
+24,"Pennsylvania","Manufacturing",2023,98.5,105328,1.5,9429
+25,"Pennsylvania","Education",2018,99.9,58801,0.1,8546
+26,"Pennsylvania","Education",2019,99.9,59599,0.1,9249
+27,"Pennsylvania","Education",2020,65.4,60575,34.6,5373
+28,"Pennsylvania","Education",2021,74.1,68588,25.9,8003
+29,"Pennsylvania","Education",2022,90.8,79053,9.2,11020
+30,"Pennsylvania","Education",2023,99.9,88669,0.1,12675
+31,"Pennsylvania","Finance",2018,97.5,92820,2.5,6903
+32,"Pennsylvania","Finance",2019,98.2,93191,1.8,7616
+33,"Pennsylvania","Finance",2020,63.9,95114,36.1,4349
+34,"Pennsylvania","Finance",2021,73.7,114656,26.3,6383
+35,"Pennsylvania","Finance",2022,85.7,136610,14.3,9302
+36,"Pennsylvania","Finance",2023,98.4,164350,1.6,9625
+37,"Pennsylvania","Construction",2018,92,59725,8,8365
+38,"Pennsylvania","Construction",2019,91.2,60882,8.8,8169
+39,"Pennsylvania","Construction",2020,60,63293,40,4870
+40,"Pennsylvania","Construction",2021,60,72026,40,6801
+41,"Pennsylvania","Construction",2022,67.8,85819,32.2,10621
+42,"Pennsylvania","Construction",2023,82.5,99251,17.5,10799
+43,"Pennsylvania","Transportation",2018,95.1,56682,4.9,6960
+44,"Pennsylvania","Transportation",2019,95.4,59195,4.6,7569
+45,"Pennsylvania","Transportation",2020,60,59314,40,4485
+46,"Pennsylvania","Transportation",2021,60,67186,40,6066
+47,"Pennsylvania","Transportation",2022,74.2,76647,25.8,9315
+48,"Pennsylvania","Transportation",2023,86.5,93172,13.5,10131
+49,"New York","Technology",2018,99.9,135752,0.1,11689
+50,"New York","Technology",2019,99.9,148210,0.1,12556
+51,"New York","Technology",2020,72.5,141690,27.5,7744
+52,"New York","Technology",2021,77.5,166318,22.5,10481
+53,"New York","Technology",2022,90.1,211339,9.9,15119
+54,"New York","Technology",2023,99.9,245516,0.1,16328
+55,"New York","Healthcare",2018,93.4,101726,6.6,14326
+56,"New York","Healthcare",2019,97.3,103111,2.7,14494
+57,"New York","Healthcare",2020,66,107364,34,8420
+58,"New York","Healthcare",2021,76.1,124459,23.9,12767
+59,"New York","Healthcare",2022,87.7,149537,12.3,17847
+60,"New York","Healthcare",2023,93,167808,7,19803
+61,"New York","Retail",2018,86.5,54645,13.5,11298
+62,"New York","Retail",2019,87,54860,13,11922
+63,"New York","Retail",2020,60,55232,40,7233
+64,"New York","Retail",2021,60,64492,40,9817
+65,"New York","Retail",2022,70.9,74612,29.1,14395
+66,"New York","Retail",2023,82.5,85603,17.5,16786
+67,"New York","Manufacturing",2018,88.7,84468,11.3,6545
+68,"New York","Manufacturing",2019,87.7,85061,12.3,7162
+69,"New York","Manufacturing",2020,60,89411,40,4423
+70,"New York","Manufacturing",2021,62.4,97303,37.6,6062
+71,"New York","Manufacturing",2022,73.2,113487,26.8,8909
+72,"New York","Manufacturing",2023,84.5,131862,15.5,9581
+73,"New York","Education",2018,98.9,77067,1.1,9746
+74,"New York","Education",2019,99.9,79133,0.1,10572
+75,"New York","Education",2020,60.5,80944,39.5,6389
+76,"New York","Education",2021,71.9,87252,28.1,8679
+77,"New York","Education",2022,84.5,99091,15.5,12882
+78,"New York","Education",2023,98.3,117028,1.7,14031
+79,"New York","Finance",2018,99.9,122095,0.1,8771
+80,"New York","Finance",2019,99.9,130483,0.1,9192
+81,"New York","Finance",2020,68.6,129353,31.4,5947
+82,"New York","Finance",2021,76.9,153323,23.1,8456
+83,"New York","Finance",2022,88.9,185700,11.1,12114
+84,"New York","Finance",2023,99.9,191032,0.1,14482
+85,"New York","Construction",2018,87.4,75924,12.6,9083
+86,"New York","Construction",2019,87.6,83307,12.4,9122
+87,"New York","Construction",2020,60,79540,40,5794
+88,"New York","Construction",2021,60,93286,40,8121
+89,"New York","Construction",2022,64.9,109006,35.1,12532
+90,"New York","Construction",2023,78.6,129554,21.4,12693
+91,"New York","Transportation",2018,88.4,74107,11.6,8095
+92,"New York","Transportation",2019,88.2,76764,11.8,8589
+93,"New York","Transportation",2020,60,76852,40,4810
+94,"New York","Transportation",2021,60,88457,40,7179
+95,"New York","Transportation",2022,72.5,99933,27.5,10618
+96,"New York","Transportation",2023,82.4,117819,17.6,11031
+97,"Virginia","Technology",2018,99.9,119144,0.1,11859
+98,"Virginia","Technology",2019,99.9,122228,0.1,11409
+99,"Virginia","Technology",2020,79.3,126926,20.7,7039
+100,"Virginia","Technology",2021,83.6,140091,16.4,10354
+101,"Virginia","Technology",2022,98.4,171159,1.6,15599
+102,"Virginia","Technology",2023,99.9,207161,0.1,15918
+103,"Virginia","Healthcare",2018,99.9,89575,0.1,14895
+104,"Virginia","Healthcare",2019,99.9,95613,0.1,16103
+105,"Virginia","Healthcare",2020,78.4,97935,21.6,9304
+106,"Virginia","Healthcare",2021,88.9,109013,11.1,13294
+107,"Virginia","Healthcare",2022,99.9,132364,0.1,19662
+108,"Virginia","Healthcare",2023,99.9,149761,0.1,21424
+109,"Virginia","Retail",2018,92.9,45456,7.1,10462
+110,"Virginia","Retail",2019,96.9,47935,3.1,11979
+111,"Virginia","Retail",2020,60,47548,40,7097
+112,"Virginia","Retail",2021,60,52242,40,9675
+113,"Virginia","Retail",2022,74.7,62911,25.3,14936
+114,"Virginia","Retail",2023,87.3,71289,12.7,16239
+115,"Virginia","Manufacturing",2018,95.7,72288,4.3,6538
+116,"Virginia","Manufacturing",2019,98.1,73452,1.9,6692
+117,"Virginia","Manufacturing",2020,60,73086,40,4239
+118,"Virginia","Manufacturing",2021,66.3,84016,33.7,5870
+119,"Virginia","Manufacturing",2022,79.7,95164,20.3,8339
+120,"Virginia","Manufacturing",2023,94.3,116142,5.7,9475
+121,"Virginia","Education",2018,98.8,61624,1.2,8437
+122,"Virginia","Education",2019,98.6,61927,1.4,8683
+123,"Virginia","Education",2020,60,65071,40,5066
+124,"Virginia","Education",2021,70.2,72451,29.8,7259
+125,"Virginia","Education",2022,82.1,80430,17.9,11211
+126,"Virginia","Education",2023,95.1,97046,4.9,11695
+127,"Virginia","Finance",2018,99.9,108536,0.1,8408
+128,"Virginia","Finance",2019,99.9,107937,0.1,9688
+129,"Virginia","Finance",2020,73.5,114099,26.5,5370
+130,"Virginia","Finance",2021,80.6,130393,19.4,7952
+131,"Virginia","Finance",2022,99.1,162290,0.9,10998
+132,"Virginia","Finance",2023,99.9,188443,0.1,12110
+133,"Virginia","Construction",2018,94.1,65994,5.9,8804
+134,"Virginia","Construction",2019,93,66906,7,9111
+135,"Virginia","Construction",2020,60,70912,40,5432
+136,"Virginia","Construction",2021,60,79771,40,7700
+137,"Virginia","Construction",2022,68.8,93942,31.2,11325
+138,"Virginia","Construction",2023,83.6,106202,16.4,12412
+139,"Virginia","Transportation",2018,97.1,63987,2.9,7928
+140,"Virginia","Transportation",2019,95.6,64020,4.4,8119
+141,"Virginia","Transportation",2020,60,66110,40,4644
+142,"Virginia","Transportation",2021,60.4,74827,39.6,6925
+143,"Virginia","Transportation",2022,76.8,85615,23.2,9984
+144,"Virginia","Transportation",2023,91.1,102351,8.9,11166
+145,"Delaware","Technology",2018,99.9,115922,0.1,9339
+146,"Delaware","Technology",2019,99.9,123182,0.1,9928
+147,"Delaware","Technology",2020,77.5,127034,22.5,6112
+148,"Delaware","Technology",2021,82.2,148868,17.8,8013
+149,"Delaware","Technology",2022,96.9,181401,3.1,12033
+150,"Delaware","Technology",2023,99.9,211021,0.1,13516
+151,"Delaware","Healthcare",2018,99.9,91356,0.1,12464
+152,"Delaware","Healthcare",2019,99.9,96241,0.1,13268
+153,"Delaware","Healthcare",2020,78.6,99352,21.4,8159
+154,"Delaware","Healthcare",2021,88,112588,12,10881
+155,"Delaware","Healthcare",2022,99.9,132838,0.1,17113
+156,"Delaware","Healthcare",2023,99.9,152738,0.1,18483
+157,"Delaware","Retail",2018,92,46191,8,9422
+158,"Delaware","Retail",2019,94.6,48979,5.4,9258
+159,"Delaware","Retail",2020,60,47864,40,5813
+160,"Delaware","Retail",2021,60,54339,40,8329
+161,"Delaware","Retail",2022,74.9,63833,25.1,11540
+162,"Delaware","Retail",2023,88.7,72932,11.3,13279
+163,"Delaware","Manufacturing",2018,93.9,73958,6.1,5333
+164,"Delaware","Manufacturing",2019,94.5,73412,5.5,5984
+165,"Delaware","Manufacturing",2020,60,76188,40,3476
+166,"Delaware","Manufacturing",2021,66.8,82910,33.2,5078
+167,"Delaware","Manufacturing",2022,79.8,101461,20.2,7253
+168,"Delaware","Manufacturing",2023,91.8,113720,8.2,7504
+169,"Delaware","Education",2018,94.8,62727,5.2,6858
+170,"Delaware","Education",2019,96.4,63302,3.6,6980
+171,"Delaware","Education",2020,60,65765,40,4167
+172,"Delaware","Education",2021,68.1,73958,31.9,6286
+173,"Delaware","Education",2022,81.2,81218,18.8,8832
+174,"Delaware","Education",2023,94.3,94432,5.7,9330
+175,"Delaware","Finance",2018,99.9,105765,0.1,7376
+176,"Delaware","Finance",2019,99.9,111816,0.1,7429
+177,"Delaware","Finance",2020,71.1,116494,28.9,4666
+178,"Delaware","Finance",2021,81.2,129619,18.8,6218
+179,"Delaware","Finance",2022,95.1,158809,4.9,9246
+180,"Delaware","Finance",2023,99.9,188279,0.1,10552
+181,"Delaware","Construction",2018,89.7,68618,10.3,6885
+182,"Delaware","Construction",2019,91.3,68846,8.7,7745
+183,"Delaware","Construction",2020,60,69437,40,4672
+184,"Delaware","Construction",2021,60,80151,40,6587
+185,"Delaware","Construction",2022,68.1,97793,31.9,9363
+186,"Delaware","Construction",2023,84.1,107833,15.9,10086
+187,"Delaware","Transportation",2018,95.2,65315,4.8,6565
+188,"Delaware","Transportation",2019,95.9,67825,4.1,6731
+189,"Delaware","Transportation",2020,60,69118,40,4121
+190,"Delaware","Transportation",2021,60,73421,40,5926
+191,"Delaware","Transportation",2022,76.6,90201,23.4,8088
+192,"Delaware","Transportation",2023,90.7,100917,9.3,8812
+193,"Ohio","Technology",2018,93.4,91810,6.6,7600
+194,"Ohio","Technology",2019,94.2,97627,5.8,7600
+195,"Ohio","Technology",2020,67,98461,33,4623
+196,"Ohio","Technology",2021,69.7,111940,30.3,6817
+197,"Ohio","Technology",2022,80.8,135336,19.2,9192
+198,"Ohio","Technology",2023,94.7,165122,5.3,10000
+199,"Ohio","Healthcare",2018,99.9,71879,0.1,11041
+200,"Ohio","Healthcare",2019,99.9,77165,0.1,11398
+201,"Ohio","Healthcare",2020,72.8,79807,27.2,7322
+202,"Ohio","Healthcare",2021,82.6,89237,17.4,10226
+203,"Ohio","Healthcare",2022,94.8,105890,5.2,14591
+204,"Ohio","Healthcare",2023,99.9,119249,0.1,16568
+205,"Ohio","Retail",2018,86.4,36469,13.6,7680
+206,"Ohio","Retail",2019,86.6,38618,13.4,8786
+207,"Ohio","Retail",2020,60,40332,40,5287
+208,"Ohio","Retail",2021,60,43435,40,6895
+209,"Ohio","Retail",2022,68.1,49632,31.9,10742
+210,"Ohio","Retail",2023,70.7,56620,29.3,11462
+211,"Ohio","Manufacturing",2018,97.1,61776,2.9,5399
+212,"Ohio","Manufacturing",2019,96.5,65393,3.5,5978
+213,"Ohio","Manufacturing",2020,60,63704,40,3419
+214,"Ohio","Manufacturing",2021,66.5,72989,33.5,4972
+215,"Ohio","Manufacturing",2022,82.2,84038,17.8,7157
+216,"Ohio","Manufacturing",2023,92,97845,8,8247
+217,"Ohio","Education",2018,90.3,49134,9.7,5886
+218,"Ohio","Education",2019,91.3,51927,8.7,6224
+219,"Ohio","Education",2020,60,52372,40,3767
+220,"Ohio","Education",2021,64.2,58380,35.8,5230
+221,"Ohio","Education",2022,77,67858,23,8249
+222,"Ohio","Education",2023,85.7,75581,14.3,8339
+223,"Ohio","Finance",2018,91.2,82217,8.8,5693
+224,"Ohio","Finance",2019,92.5,87390,7.5,5724
+225,"Ohio","Finance",2020,60.8,88334,39.2,3676
+226,"Ohio","Finance",2021,69.1,99989,30.9,5270
+227,"Ohio","Finance",2022,82.7,124591,17.3,7353
+228,"Ohio","Finance",2023,90.2,147887,9.8,8165
+229,"Ohio","Construction",2018,83.9,53756,16.1,6669
+230,"Ohio","Construction",2019,87,56134,13,6632
+231,"Ohio","Construction",2020,60,56667,40,4105
+232,"Ohio","Construction",2021,60,65537,40,5581
+233,"Ohio","Construction",2022,65.2,79280,34.8,8300
+234,"Ohio","Construction",2023,77.1,88390,22.9,9032
+235,"Ohio","Transportation",2018,95.1,54249,4.9,6607
+236,"Ohio","Transportation",2019,97.9,57808,2.1,6905
+237,"Ohio","Transportation",2020,60,57742,40,3985
+238,"Ohio","Transportation",2021,60,62909,40,5969
+239,"Ohio","Transportation",2022,76.5,73155,23.5,8328
+240,"Ohio","Transportation",2023,92.8,84419,7.2,9447
+241,"Indiana","Technology",2018,90.5,87799,9.5,6835
+242,"Indiana","Technology",2019,93.6,92348,6.4,7491
+243,"Indiana","Technology",2020,65,92290,35,4266
+244,"Indiana","Technology",2021,67.6,110035,32.4,6221
+245,"Indiana","Technology",2022,80.4,134677,19.6,8822
+246,"Indiana","Technology",2023,91,158370,9,9359
+247,"Indiana","Healthcare",2018,93.2,70256,6.8,9482
+248,"Indiana","Healthcare",2019,95.4,71482,4.6,9974
+249,"Indiana","Healthcare",2020,65.1,70549,34.9,5970
+250,"Indiana","Healthcare",2021,72.5,84433,27.5,8476
+251,"Indiana","Healthcare",2022,86.9,99393,13.1,11716
+252,"Indiana","Healthcare",2023,90.4,111248,9.6,12874
+253,"Indiana","Retail",2018,86.5,36953,13.5,7364
+254,"Indiana","Retail",2019,87.1,36945,12.9,7928
+255,"Indiana","Retail",2020,60,38934,40,4932
+256,"Indiana","Retail",2021,60,43262,40,6858
+257,"Indiana","Retail",2022,67.7,47796,32.3,10293
+258,"Indiana","Retail",2023,81,55641,19,10385
+259,"Indiana","Manufacturing",2018,95.5,59926,4.5,5166
+260,"Indiana","Manufacturing",2019,96.3,63866,3.7,5335
+261,"Indiana","Manufacturing",2020,60,61539,40,3245
+262,"Indiana","Manufacturing",2021,66.4,68356,33.6,4764
+263,"Indiana","Manufacturing",2022,79.5,83727,20.5,6801
+264,"Indiana","Manufacturing",2023,91,97727,9,7468
+265,"Indiana","Education",2018,90.7,49973,9.3,5968
+266,"Indiana","Education",2019,89.1,50825,10.9,5913
+267,"Indiana","Education",2020,60,51096,40,3561
+268,"Indiana","Education",2021,63.1,57178,36.9,4902
+269,"Indiana","Education",2022,76.8,64885,23.2,7288
+270,"Indiana","Education",2023,85.9,74880,14.1,8366
+271,"Indiana","Finance",2018,91.6,80797,8.4,5413
+272,"Indiana","Finance",2019,91.8,86839,8.2,5482
+273,"Indiana","Finance",2020,61.1,83847,38.9,3334
+274,"Indiana","Finance",2021,67.5,102459,32.5,4857
+275,"Indiana","Finance",2022,82.2,124216,17.8,6833
+276,"Indiana","Finance",2023,89.3,140826,10.7,7935
+277,"Indiana","Construction",2018,93.6,53948,6.4,6793
+278,"Indiana","Construction",2019,94.1,58703,5.9,7328
+279,"Indiana","Construction",2020,60,57265,40,4562
+280,"Indiana","Construction",2021,60,66011,40,6111
+281,"Indiana","Construction",2022,69.8,81253,30.2,9091
+282,"Indiana","Construction",2023,85.8,89212,14.2,10115
+283,"Indiana","Transportation",2018,94.9,53440,5.1,5827
+284,"Indiana","Transportation",2019,97.4,55019,2.6,6231
+285,"Indiana","Transportation",2020,60,55066,40,3994
+286,"Indiana","Transportation",2021,60,60238,40,5389
+287,"Indiana","Transportation",2022,75.5,70521,24.5,8247
+288,"Indiana","Transportation",2023,91.7,84185,8.3,8939
+289,"Michigan","Technology",2018,96.6,100607,3.4,7674
+290,"Michigan","Technology",2019,99.1,101125,0.9,8796
+291,"Michigan","Technology",2020,71,100533,29,5306
+292,"Michigan","Technology",2021,75,117022,25,7266
+293,"Michigan","Technology",2022,89.4,144993,10.6,10453
+294,"Michigan","Technology",2023,99.9,169107,0.1,11909
+295,"Michigan","Healthcare",2018,92.9,72046,7.1,9278
+296,"Michigan","Healthcare",2019,90.2,76052,9.8,9453
+297,"Michigan","Healthcare",2020,63.5,74232,36.5,6033
+298,"Michigan","Healthcare",2021,73.3,87165,26.7,8308
+299,"Michigan","Healthcare",2022,82.7,105571,17.3,12236
+300,"Michigan","Healthcare",2023,90.5,118716,9.5,13327
+301,"Michigan","Retail",2018,85.1,37507,14.9,7764
+302,"Michigan","Retail",2019,84.8,39731,15.2,7974
+303,"Michigan","Retail",2020,60,40468,40,4994
+304,"Michigan","Retail",2021,60,44530,40,7308
+305,"Michigan","Retail",2022,67.3,50824,32.7,10114
+306,"Michigan","Retail",2023,77.3,60099,22.7,11414
+307,"Michigan","Manufacturing",2018,92.8,63621,7.2,5592
+308,"Michigan","Manufacturing",2019,92.5,64081,7.5,5612
+309,"Michigan","Manufacturing",2020,60,66955,40,2194
+310,"Michigan","Manufacturing",2021,65.4,74723,34.6,4587
+311,"Michigan","Manufacturing",2022,78.5,86091,21.5,6761
+312,"Michigan","Manufacturing",2023,89.5,101728,10.5,7306
+313,"Michigan","Education",2018,88.4,51542,11.6,6124
+314,"Michigan","Education",2019,88.2,52472,11.8,6328
+315,"Michigan","Education",2020,60,54032,40,3635
+316,"Michigan","Education",2021,62.3,60629,37.7,5150
+317,"Michigan","Education",2022,73.1,70089,26.9,7696
+318,"Michigan","Education",2023,83,80524,17,8602
+319,"Michigan","Finance",2018,87,82454,13,5280
+320,"Michigan","Finance",2019,89.5,86252,10.5,5984
+321,"Michigan","Finance",2020,60,87628,40,3579
+322,"Michigan","Finance",2021,66.4,102564,33.6,4869
+323,"Michigan","Finance",2022,80.1,128631,19.9,6895
+324,"Michigan","Finance",2023,89.1,150730,10.9,7851
+325,"Michigan","Construction",2018,81.7,54451,18.3,6213
+326,"Michigan","Construction",2019,81.8,57314,18.2,6524
+327,"Michigan","Construction",2020,60,57021,40,3902
+328,"Michigan","Construction",2021,60,65497,40,5399
+329,"Michigan","Construction",2022,62.3,77450,37.7,8505
+330,"Michigan","Construction",2023,74.5,90639,25.5,8836
+331,"Michigan","Transportation",2018,93.6,53483,6.4,6359
+332,"Michigan","Transportation",2019,93.9,56944,6.1,6846
+333,"Michigan","Transportation",2020,60,58202,40,4118
+334,"Michigan","Transportation",2021,60,63004,40,5419
+335,"Michigan","Transportation",2022,74.3,74885,25.7,8221
+336,"Michigan","Transportation",2023,89.5,89875,10.5,8600
+337,"Minnesota","Technology",2018,99.9,109179,0.1,10467
+338,"Minnesota","Technology",2019,99.9,118227,0.1,11478
+339,"Minnesota","Technology",2020,82.3,119936,17.7,6974
+340,"Minnesota","Technology",2021,84.8,141459,15.2,9457
+341,"Minnesota","Technology",2022,99.9,167571,0.1,14396
+342,"Minnesota","Technology",2023,99.9,201837,0.1,15494
+343,"Minnesota","Healthcare",2018,99.9,84544,0.1,13779
+344,"Minnesota","Healthcare",2019,99.9,91972,0.1,15348
+345,"Minnesota","Healthcare",2020,99.9,91702,0.1,18198
+346,"Minnesota","Healthcare",2021,91.8,104756,8.2,12834
+347,"Minnesota","Healthcare",2022,99.9,123646,0.1,19006
+348,"Minnesota","Healthcare",2023,99.9,144143,0.1,20849
+349,"Minnesota","Retail",2018,96.9,44327,3.1,10844
+350,"Minnesota","Retail",2019,98,45755,2,11426
+351,"Minnesota","Retail",2020,60,45042,40,6916
+352,"Minnesota","Retail",2021,60,51320,40,9591
+353,"Minnesota","Retail",2022,77.8,60250,22.2,14419
+354,"Minnesota","Retail",2023,90.1,68327,9.9,14284
+355,"Minnesota","Manufacturing",2018,97.7,69482,2.3,5982
+356,"Minnesota","Manufacturing",2019,96.9,68690,3.1,6441
+357,"Minnesota","Manufacturing",2020,60,70021,40,4021
+358,"Minnesota","Manufacturing",2021,68.5,78551,31.5,5763
+359,"Minnesota","Manufacturing",2022,81.7,92917,18.3,7925
+360,"Minnesota","Manufacturing",2023,93.6,108957,6.4,9144
+361,"Minnesota","Education",2018,99.4,59229,0.6,7648
+362,"Minnesota","Education",2019,99.9,61765,0.1,8013
+363,"Minnesota","Education",2020,62.6,62134,37.4,5051
+364,"Minnesota","Education",2021,72.3,68108,27.7,6880
+365,"Minnesota","Education",2022,85.8,76016,14.2,10463
+366,"Minnesota","Education",2023,99.3,92339,0.7,10853
+367,"Minnesota","Finance",2018,99.9,102311,0.1,8656
+368,"Minnesota","Finance",2019,99.9,107552,0.1,9132
+369,"Minnesota","Finance",2020,75.3,104392,24.7,5391
+370,"Minnesota","Finance",2021,82.1,124007,17.9,7445
+371,"Minnesota","Finance",2022,99.9,155997,0.1,11399
+372,"Minnesota","Finance",2023,99.9,174862,0.1,12025
+373,"Minnesota","Construction",2018,94.3,62109,5.7,7958
+374,"Minnesota","Construction",2019,94.4,67433,5.6,8900
+375,"Minnesota","Construction",2020,60,64432,40,5427
+376,"Minnesota","Construction",2021,60,73775,40,7317
+377,"Minnesota","Construction",2022,71.1,88532,28.9,11168
+378,"Minnesota","Construction",2023,84.9,101415,15.1,12221
+379,"Minnesota","Transportation",2018,98.1,58768,1.9,7096
+380,"Minnesota","Transportation",2019,99.7,61173,0.3,7818
+381,"Minnesota","Transportation",2020,60,62322,40,4824
+382,"Minnesota","Transportation",2021,61.7,71778,38.3,6584
+383,"Minnesota","Transportation",2022,78.7,83719,21.3,9747
+384,"Minnesota","Transportation",2023,92.5,98193,7.5,9881
+385,"Maryland","Technology",2018,99.9,128092,0.1,11124
+386,"Maryland","Technology",2019,99.9,128072,0.1,11605
+387,"Maryland","Technology",2020,99.9,132870,0.1,6594
+388,"Maryland","Technology",2021,84.3,156295,15.7,9962
+389,"Maryland","Technology",2022,99.9,191800,0.1,13478
+390,"Maryland","Technology",2023,99.9,221914,0.1,14866
+391,"Maryland","Healthcare",2018,99.9,96715,0.1,14095
+392,"Maryland","Healthcare",2019,99.9,103747,0.1,14798
+393,"Maryland","Healthcare",2020,81,100653,19,8941
+394,"Maryland","Healthcare",2021,89.9,114978,10.1,12093
+395,"Maryland","Healthcare",2022,99.9,141950,0.1,19074
+396,"Maryland","Healthcare",2023,99.9,159602,0.1,19164
+397,"Maryland","Retail",2018,96.1,49060,3.9,10157
+398,"Maryland","Retail",2019,96.4,50293,3.6,10576
+399,"Maryland","Retail",2020,60,50785,40,6708
+400,"Maryland","Retail",2021,60,57816,40,9465
+401,"Maryland","Retail",2022,74.9,67167,25.1,12887
+402,"Maryland","Retail",2023,87.9,77957,12.1,14707
+403,"Maryland","Manufacturing",2018,94.7,77068,5.3,6048
+404,"Maryland","Manufacturing",2019,99,77173,1,6197
+405,"Maryland","Manufacturing",2020,60,79356,40,3764
+406,"Maryland","Manufacturing",2021,66.8,90976,33.2,5312
+407,"Maryland","Manufacturing",2022,83,101880,17,7728
+408,"Maryland","Manufacturing",2023,92.2,118334,7.8,8613
+409,"Maryland","Education",2018,99.9,70161,0.1,9073
+410,"Maryland","Education",2019,99.9,71896,0.1,9704
+411,"Maryland","Education",2020,67.7,72086,32.3,5505
+412,"Maryland","Education",2021,77.4,79818,22.6,8099
+413,"Maryland","Education",2022,91.2,91832,8.8,12174
+414,"Maryland","Education",2023,99.9,106475,0.1,12732
+415,"Maryland","Finance",2018,99.9,110112,0.1,7214
+416,"Maryland","Finance",2019,99.9,112725,0.1,7433
+417,"Maryland","Finance",2020,66.9,117852,33.1,4715
+418,"Maryland","Finance",2021,76.6,136288,23.4,6189
+419,"Maryland","Finance",2022,90.2,165523,9.8,9450
+420,"Maryland","Finance",2023,99.9,193628,0.1,10404
+421,"Maryland","Construction",2018,92.8,70211,7.2,7991
+422,"Maryland","Construction",2019,95.9,73229,4.1,8571
+423,"Maryland","Construction",2020,60,75945,40,5164
+424,"Maryland","Construction",2021,60,84667,40,7127
+425,"Maryland","Construction",2022,72,104322,28,10899
+426,"Maryland","Construction",2023,85.8,117144,14.2,12053
+427,"Maryland","Transportation",2018,98.3,69143,1.7,6833
+428,"Maryland","Transportation",2019,99.9,69063,0.1,7682
+429,"Maryland","Transportation",2020,60,69281,40,4393
+430,"Maryland","Transportation",2021,60.8,80546,39.2,6557
+431,"Maryland","Transportation",2022,77.1,93252,22.9,9850
+432,"Maryland","Transportation",2023,90.3,110276,9.7,10601
