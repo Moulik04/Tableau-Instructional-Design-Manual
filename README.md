@@ -1,15 +1,18 @@
-# Creating Interactive Dashboards: A Technical Instructional Manual
-### 🏆 Selected as a Penn State Departmental Course Exemplar
+# Creating Interactive Dashboards in Tableau Public: A Beginner's Guide
 
-## 📌 Project Overview
-A comprehensive, step-by-step technical guide designed to teach novice data analysts how to build, filter, and publish interactive dashboards using **Tableau Public**.
+### 1. Project Overview
+Developed a comprehensive instructional guide to help beginners navigate Tableau Public, from initial data connection to publishing a live, interactive dashboard.
 
-## 🚀 Key Achievements
-* **Recognition:** Chosen by the English Department as a permanent sample due to its structural logic and clarity.
-* **Instructional Design:** Translated complex BI concepts (Dimensions vs. Measures, Dashboard Actions, and Data Joining) into accessible documentation.
-* **Visual Storytelling:** Features a fully realized "Global Football Trends" dashboard as a case study for the manual.
+### 2. Dataset
+Utilized standard sample datasets (CSV/Excel format) to demonstrate data cleaning, field verification, and visualization techniques.
 
-## 🛠️ Tools Covered
-* **Tableau Public** (Desktop & Web Authoring)
-* **Data Formatting:** Excel / CSV
-* **Documentation:** Technical Writing & Information Architecture
+### 3. Approach
+**Tools:** Tableau Public (Desktop Edition).
+**Techniques:** Instructional design focused on the end-to-end workflow: data connection, worksheet creation, dashboard assembly, and implementing interactive filters and "Dashboard Actions".
+
+### 4. Results
+**Deliverable:** A step-by-step tutorial that enables users to build multi-view dashboards with synchronized filtering (e.g., selecting a "Product Category" in one chart updates all others).
+**Visuals:** Detailed walkthroughs of the Tableau Workspace, including the Data Pane, Marks Card, and Show Me Panel.
+
+### 5. Key Learnings
+This project allowed me to master the Tableau interface while forcing me to simplify complex technical workflows for a novice audience. I learned that the most effective dashboards aren't just pretty, they are functional tools that allow users to explore data dynamically. This experience improved my technical communication and my understanding of user-centric dashboard design.
